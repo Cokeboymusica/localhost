@@ -1,2 +1,2 @@
 # localhost componnete 
-todo tiene 
+todo tiene el tiempo esperado 
